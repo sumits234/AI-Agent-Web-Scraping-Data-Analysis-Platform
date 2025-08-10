@@ -1,0 +1,10 @@
+streamlit
+scrapegraphai
+duckdb
+pandas
+pyarrow
+openai
+python-dotenv
+agno
+phi
+playwright

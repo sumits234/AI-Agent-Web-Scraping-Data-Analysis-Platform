@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: Run app.py",
+      "type": "python",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py", "--server.port=8501", "--server.headless=true"],
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
