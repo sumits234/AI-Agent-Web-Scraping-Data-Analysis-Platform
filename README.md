@@ -34,8 +34,8 @@ An end-to-end AI platform that **scrapes structured data from any website** and 
 ## 📦 Installation
 ```bash
 # 1️⃣ Clone this repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clonehttps://github.com/sumits234/AI-Agent-Web-Scraping-Data-Analysis-Platform.git
+cd <AI-Agent-Web-Scraping-Data-Analysis-Platform>
 
 # 2️⃣ Create & activate virtual environment
 python -m venv .venv
@@ -48,7 +48,8 @@ pip install -r requirements.txt
 playwright install
 
 # 5️⃣ Add your OpenAI API key to .env
-echo "OPENAI_API_KEY=your_key_here" > .env
+ OPENAI_API_KEY="your_key_here" > .env
 
 # 6️⃣ Run the app
 streamlit run app.py
+
