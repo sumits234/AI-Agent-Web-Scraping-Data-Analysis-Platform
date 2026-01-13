@@ -5,7 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-Automation-green.svg)]()
-[![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Playwright%2FSelenium-orange.svg)]()
+[![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Playwright%2Forange.svg)]()
 [![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20SQL-purple.svg)]()
 
 
@@ -58,3 +58,4 @@ LLM Structuring → JSON / Table
 Data Cleaning + Storage
         ↓
 EDA / Insights / Report Output
+
