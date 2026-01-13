@@ -35,11 +35,11 @@ Instead of writing scraping rules manually, the platform uses an **AI Agent pipe
 
 ## 🧠 Tech Stack
 - **Python**
-- **Playwright ** *(based on your project)*
+- **Playwright**
 - **LLM / Agent Framework**
 - **Pandas / NumPy**
 - **SQL / DuckDB / CSV storage**
-- **Streamlit / Flask UI** *(if used)*
+- **Streamlit **
 
 ---
 
@@ -58,5 +58,6 @@ LLM Structuring → JSON / Table
 Data Cleaning + Storage
         ↓
 EDA / Insights / Report Output
+
 
 
