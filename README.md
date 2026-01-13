@@ -39,7 +39,7 @@ Instead of writing scraping rules manually, the platform uses an **AI Agent pipe
 - **LLM / Agent Framework**
 - **Pandas / NumPy**
 - **SQL / DuckDB / CSV storage**
-- **Streamlit **
+- **Streamlit**
 
 ---
 
@@ -58,6 +58,7 @@ LLM Structuring → JSON / Table
 Data Cleaning + Storage
         ↓
 EDA / Insights / Report Output
+
 
 
 
